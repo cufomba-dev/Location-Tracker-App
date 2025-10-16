@@ -12,17 +12,21 @@
 		<data>
 		VzrOTKGB1DSFj4v0MaI7iMVWX3s=
 		</data>
+		<key>CommunityToolkit.Mvvm.dll</key>
+		<data>
+		V3xFjVNisuKyHljJia3AKMyWVv8=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		Np9mN6Z6VQ6NUmNAnPmo7sVRei8=
+		bHp0VuRrQTvTAVqY+ptOh6iL6ss=
 		</data>
 		<key>MauiApp1.dll</key>
 		<data>
-		D5Y56jJkbx4RwPewy9jH5Zw1tHA=
+		/snyu/9k+Wv+KAoG7zovIjHPTO4=
 		</data>
 		<key>MauiApp1.pdb</key>
 		<data>
-		yFW7HCBCbaZLjmH/rgJZkV3f7Qo=
+		EyC0qcrt7jEWMg4z85pJDf5e/ik=
 		</data>
 		<key>MauiInfo.plist</key>
 		<data>
@@ -84,6 +88,10 @@
 		<data>
 		SPawDJ8u5vSm3tKIDifItv/Oblk=
 		</data>
+		<key>Microsoft.Maui.Controls.Maps.dll</key>
+		<data>
+		TIwFJOlEFFGO79YrMOyTVNPWMKs=
+		</data>
 		<key>Microsoft.Maui.Controls.Xaml.dll</key>
 		<data>
 		Hf6P0UCpibuEdwhZTVGZNpITP/E=
@@ -99,6 +107,10 @@
 		<key>Microsoft.Maui.Graphics.dll</key>
 		<data>
 		SCv3RGlLoz/JbnZ4wgsD1vqu7S4=
+		</data>
+		<key>Microsoft.Maui.Maps.dll</key>
+		<data>
+		8JCjB1EQ0nPHnnsUjWxrwDK3XRM=
 		</data>
 		<key>Microsoft.Maui.dll</key>
 		<data>
@@ -159,6 +171,22 @@
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
 		+59cRc8ev+HwAO70fp1P8R6hyjc=
+		</data>
+		<key>SQLite-net.dll</key>
+		<data>
+		42PRq5815Oe9aTbb+iFnhBSgP3U=
+		</data>
+		<key>SQLitePCLRaw.batteries_v2.dll</key>
+		<data>
+		3eEu2R87cwTQ+GCZvNn72iYjcHw=
+		</data>
+		<key>SQLitePCLRaw.core.dll</key>
+		<data>
+		AEiE31IYMpCWbi+2HDV13xHlgUg=
+		</data>
+		<key>SQLitePCLRaw.provider.sqlite3.dll</key>
+		<data>
+		/OqigeuXI2L9prgtVOnnxCqgE0E=
 		</data>
 		<key>Settings.bundle/Root.plist</key>
 		<data>
@@ -990,7 +1018,7 @@
 		</data>
 		<key>runtimeconfig.bin</key>
 		<data>
-		8ql1G5JIPrucFZr5JuQrHwAL4B4=
+		boG5McNNjtQaNB0dknq8aSPQp+M=
 		</data>
 		<key>sk/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -1057,18 +1085,25 @@
 			wMRm8AIKV4UWSgH2XJKcst78QrhEt/lHsqnbgPmsy24=
 			</data>
 		</dict>
+		<key>CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fX61wGbP6IO0ObEgC/Xcs4ex5TGd0u29qp4jrf5BZFI=
+			</data>
+		</dict>
 		<key>MauiApp1.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OlL2/Hx0ZP84wjwVhOoytfBPnkDnqBQwcu6Zu+wi+rc=
+			sEkjB/2iC+iQxpq630Gh7PRXtKmnBkMb8HOc8e96mQA=
 			</data>
 		</dict>
 		<key>MauiApp1.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pyQgsn3X6Ig20KK3NKxucyTxuWS8gYZwrQq5K0HmW6o=
+			tE9sUqcASFafbxNVLMBqOQIBq1gyOg/RRWgl/7b6vEo=
 			</data>
 		</dict>
 		<key>MauiInfo.plist</key>
@@ -1176,6 +1211,13 @@
 			XWFvQUbrEKy5gYQN4OHirpPzVf6lfmWo8M5EDnvJJHE=
 			</data>
 		</dict>
+		<key>Microsoft.Maui.Controls.Maps.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8gPngGGtr4FMhebma6YMzqbfS4LiJyadHqAPqBfKRME=
+			</data>
+		</dict>
 		<key>Microsoft.Maui.Controls.Xaml.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1202,6 +1244,13 @@
 			<key>hash2</key>
 			<data>
 			k3m2NMCHukfTpurTQlSdrISI6wMc3PXPJ5pehtYapmY=
+			</data>
+		</dict>
+		<key>Microsoft.Maui.Maps.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			363VVuUBhZpcn4FhbfRlrji4GzivpYGXrKKnIlxaYPU=
 			</data>
 		</dict>
 		<key>Microsoft.Maui.dll</key>
@@ -1300,6 +1349,34 @@
 			<key>hash2</key>
 			<data>
 			vSdOCYnhm9fj+qcbPQi0IfGVKZjXx/f8EMHfqNdMxU8=
+			</data>
+		</dict>
+		<key>SQLite-net.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/0h0FMSssyqe6OCqk97walP3tX35PS56JgVOGN+Fcj4=
+			</data>
+		</dict>
+		<key>SQLitePCLRaw.batteries_v2.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GYVNzEX4ezJINQlWnBSCySOFfyn3DBc3murImG1EqeU=
+			</data>
+		</dict>
+		<key>SQLitePCLRaw.core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l57cyQVqwG1fUrEtm3czsSF5FKtQvxI6sxLgJ+esV6U=
+			</data>
+		</dict>
+		<key>SQLitePCLRaw.provider.sqlite3.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sn+GJwMFQ/ifB8eT2UGrF/BVLBi4yR3wYIKY7ADv96Y=
 			</data>
 		</dict>
 		<key>Settings.bundle/Root.plist</key>
@@ -2755,7 +2832,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ukI0fdPR7dGn2kpmuj/bboWWo7QDFLau3KPDDx3bHBI=
+			tbhkCzzpdp5dNG4HqO3iv71VJC5HeGsi+uJxzuIzmOk=
 			</data>
 		</dict>
 		<key>sk/Microsoft.Maui.Controls.resources.dll</key>

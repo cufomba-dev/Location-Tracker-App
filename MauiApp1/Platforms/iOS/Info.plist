@@ -28,5 +28,10 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs your location to draw a route and heat map.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Needed to keep tracking while you use the app.</string>
+
 </dict>
 </plist>

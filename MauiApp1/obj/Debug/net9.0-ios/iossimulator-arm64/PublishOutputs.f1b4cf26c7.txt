@@ -33,6 +33,7 @@
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/runtimeconfig.bin
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/CommunityToolkit.Mvvm.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Extensions.Configuration.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Extensions.DependencyInjection.dll
@@ -43,10 +44,16 @@
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Extensions.Options.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Extensions.Primitives.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Controls.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Controls.Maps.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Controls.Xaml.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Essentials.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Graphics.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Maps.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLite-net.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.batteries_v2.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.core.dll
+/Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.provider.sqlite3.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/chibuzoufomba/School/Location Tracker App/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.VisualStudio.DesignTools.TapContract.dll
